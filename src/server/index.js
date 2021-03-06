@@ -35,6 +35,6 @@ app.post('/data', async function(req, res) {
 })
 
 // designates what port the app will listen to for incoming requests
-app.listen(5050, function () {
-    console.log('Example app listening on port 5050!')
+app.listen(8081, function () {
+    console.log('Example app listening on port 8081!')
 })
