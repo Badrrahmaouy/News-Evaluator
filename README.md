@@ -1,4 +1,4 @@
-# Webbpack Express Example App
+# Webpack Express Example App
 
 ## News Evaluator web app
 
